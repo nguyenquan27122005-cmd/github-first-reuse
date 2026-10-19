@@ -1,4 +1,4 @@
-# GitHub-First Reuse 2.0
+# GitHub First Reuse
 
 Skill giúp AI tìm và đánh giá code có thể tái sử dụng trước khi xây dựng một tính năng lớn. Ưu tiên code trong dự án, thư viện chuẩn và dependency đang dùng; chỉ tìm GitHub khi còn thiếu khả năng cần thiết.
 
